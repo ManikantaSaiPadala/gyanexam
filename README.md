@@ -17,16 +17,15 @@ This project is built using HTML, CSS, and JavaScript to create a user-friendly 
    ```bash
    git clone https://github.com/ManikantaSaiPadala/gyanexam.git
 
-2. Open the project in your code editor.
+2. Open the project in your code editor:
+   Open the index.html file in your web browser to view the application.
 
-  Open the index.html file in your web browser to view the application.
-  
-3. Usage
-  Open the application in your web browser.
-  Explore recommended shows and upcoming events.
+3. Usage:
+     Open the application in your web browser.
+     Explore recommended shows and upcoming events.
 
-4.Contributions
-  Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
+5. Contributions:
+     Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
 
-5. License
-  This project is licensed under the MIT License.
+6. License:
+     This project is licensed under the MIT License.
