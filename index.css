@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: Inter;
+    border-color: #B0BABF;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+.mainCont {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin: 10px;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+
+.cont1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cont2 {
+    color: #989090;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cont3 {
+    background-color: white;
+    padding: 10px;
+}
+
+.ulCont {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #989090;
+}
+
+li {
+    margin: 2px 5px 5px 5px;
+}
+
+.searchBar {
+    border-color: black;
+}
+
+.cont4 {
+    background-image: url("https://res.cloudinary.com/dwvzomy9w/image/upload/v1711863215/Screenshot_2024-03-31_105548_vczbfy.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: white;
+}
+
+.resCont {
+    display: flex;
+}
+
+.inEle {
+    margin: 5px;
+    height: 100px;
+    border: 2px  #B0BABF solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.footerSec {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+#footSec {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #08374f;
+    border-width: 3px;
+    border-style: solid;
+    width: 25vw;
+}
